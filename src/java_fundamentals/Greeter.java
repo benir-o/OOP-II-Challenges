@@ -1,4 +1,4 @@
-package personal_classwork;
+package java_fundamentals;
 
 public class Greeter {
     void greet(){
