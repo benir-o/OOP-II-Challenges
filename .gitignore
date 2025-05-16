@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!solutions to classwork challenges/Object oriented analysis and design/main/**/out/
+!solutions to classwork challenges/Object oriented analysis and design/test/**/out/
 
 ### Eclipse ###
 .apt_generated
@@ -12,8 +12,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+!solutions to classwork challenges/Object oriented analysis and design/main/**/bin/
+!solutions to classwork challenges/Object oriented analysis and design/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/

@@ -1,4 +1,3 @@
-package personal_classwork;
 
 import java.util.Scanner;
 
